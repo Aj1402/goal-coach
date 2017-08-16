@@ -1,5 +1,11 @@
 ﻿# goal-coach
 React.js + Redux + Firebase app for setting up goals and fullfilling them.
+## Live Demo: [GoalCoach](https://aj1402.github.io/goal-coach)
+## Features:
+
+- Firebase powered data handling
+- Sign up and Sign in authenticated with firebase API.
+- React based toast like error messages impemented using [react-alert](https://github.com/schiehll/react-alert).
 
 # Create-react-app
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
